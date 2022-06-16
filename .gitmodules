@@ -1,0 +1,3 @@
+[submodule "src/queue-graph"]
+	path = src/queue-graph
+	url = git@github.com:mgsalerno/queue-graph.git
